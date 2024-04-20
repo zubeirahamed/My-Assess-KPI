@@ -10,7 +10,7 @@ docker run -d -p 3000:3000 mynestapp
 -d runs the container in detached mode (background).
 -p 3000:3000 maps the container's port 3000 to the host machine's port 3000 
 we can access by ip
-## Best tools for monitoring
+## Tools for monitoring
 Prometheus:
 
 Open-source.
